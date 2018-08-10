@@ -15,3 +15,10 @@ function shout(string){
   console.log(str.toUpperCase())
 return string.toUpperCase()
 }
+
+function whisper(string)
+{
+  var str = "Hello"
+  console.log(str.toLowerCase())
+  return (str.toLowerCase())
+}
